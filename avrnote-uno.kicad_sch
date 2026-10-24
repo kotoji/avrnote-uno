@@ -10775,7 +10775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC18-U_Vertical"
+		(property "Footprint" "ATS08A-E:XTAL_HC49P488W43L1085T450H368"
 			(at 260.35 25.4 0)
 			(hide yes)
 			(show_name no)
