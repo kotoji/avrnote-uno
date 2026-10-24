@@ -48,3 +48,8 @@ production/
 # シミュレーション出力
 *.raw
 *.log
+
+# Freerouting / Specctra 交換ファイル
+*.dsn
+*.ses
+temp-freerouting.*
