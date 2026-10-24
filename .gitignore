@@ -1,0 +1,50 @@
+# --- バックアップ・自動保存 ---
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl-bak
+*.bak
+*.000
+*~
+_autosave-*
+.#*
+
+# --- ロックファイル ---
+*.lck
+~*.lck
+
+# --- ユーザー固有のローカル設定 ---
+*.kicad_prl
+
+# --- キャッシュ・一時ファイル ---
+fp-info-cache
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+*.net.bak
+
+# --- 生成物（再生成可能なもの） ---
+# Gerber / ドリルファイル / 3Dモデル出力
+fabrication/
+gerbers/
+production/
+*.gbr
+*.drl
+*.gbrjob
+*.step
+*.wrl
+
+# BOM・レポート・ネットリスト
+*.csv
+*.xml
+*.net
+*.rpt
+
+# PDF・画像出力
+*.pdf
+*.svg
+*.png
+
+# シミュレーション出力
+*.raw
+*.log
