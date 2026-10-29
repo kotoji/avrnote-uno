@@ -13860,7 +13860,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 252.73 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -14752,7 +14752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_TechFuse_SL0420"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 54.61 124.46 0)
 			(hide yes)
 			(show_name no)
